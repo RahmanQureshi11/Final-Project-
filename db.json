@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "name": "iphone 15 pro max",
+      "brand": "Apple",
+      "category": "Phones",
+      "price": "1050",
+      "description": "smartphone",
+      "createdAt": "2024-02-16",
+      "id": "1"
+    },
+    {
+      "name": "PlayStation 5",
+      "brand": "Sony",
+      "category": "others",
+      "price": "550",
+      "description": "entertainment",
+      "createdAt": "2024-02-16",
+      "id": "2"
+    },
+    {
+      "id": "184e",
+      "name": "Dell Alienware ",
+      "brand": "Alienware ",
+      "category": "Gaming Consoles",
+      "price": "$1,399.99",
+      "description": "Gaming",
+      "createdAt": "2024-02-23"
+    },
+    {
+      "id": "d71b",
+      "opinion": "its been great experience"
+    }
+  ]
+}
